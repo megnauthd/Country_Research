@@ -1,26 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>TEMPLATE: Country / Person Profiler</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
-	<link href="style.css" rel="stylesheet" type="text/css" />
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Country Profiler</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-	<div class="container">
-		<h1> TITLE </h1>
+  <div class="container">
+    <h1>Country Profiler</h1>
 
-		<!-- CREATE TEMPLATE FOR PROFILE -->
-		<main></main>
-	</div>
-	</div>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	<script src="script.js"></script>
+    <!-- Dropdown for selecting a country -->
+    <label for="country-select">Select a Country:</label>
+    <select id="country-select" class="form-control">
+      <option value="">Select a country</option>
+    </select>
+
+    <!-- Display Country Details -->
+    <main id="country-details">
+      <p>Select a country from the dropdown to view details.</p>
+    </main>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
 </body>
 
 </html>
