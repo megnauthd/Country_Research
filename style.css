@@ -5,7 +5,7 @@ html {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f9;
+  background-color: #B14AED;
   color: #333;
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  color: #2c3e50;
+  color: #E1BBC9;
 }
 
 select {
@@ -26,10 +26,10 @@ select {
 }
 
 #country-details {
-  background-color: #fff;
+  background-color: #C874D9;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(255, 123, 123, 0.1);
 }
 
 img {
@@ -45,7 +45,7 @@ img {
 }
 
 a {
-  color: #3498db;
+  color: #E1BBC9;
   text-decoration: none;
 }
 
