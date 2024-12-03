@@ -1,0 +1,138 @@
+ [  
+    {
+        "Zimbabwe": {
+            "name": "Zimbabwe",
+            "population": "16.67 million",
+            "capital": "Harare",
+            "nationalAnimal": "Sable Antelope",
+            "languages": ["Shona", "English", "Tshwa langauge", "Ndebele", "Xhosa", "Chewa", "Southern Sotho", "Venda", "Northern Sotho", "Tswana", "Tsonga", "Tongan", "Kalanga language", "Zimbabwean English", "Sena", "Tonga", "Zimbabwean sign languages", "Tjwao dialect", "Manbya langauge"],
+            "nationalAnthem": "https://www.youtube.com/watch?v=ZfprTYQnkKI",
+            "images": {
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png", 
+                "city": [
+                    "https://www.worldatlas.com/r/w1200/upload/c9/32/8c/untitled-design-387.jpg",
+                    "https://www.worldatlas.com/r/w1200/upload/70/2f/ef/shutterstock-538942345.jpg",
+                    "https://e360.yale.edu/assets/site/HarareZimbabwe_city-568208_960_720_web.jpg"
+                ],
+                "people": [
+                    "https://www.victoriafalls-guide.net/images/vadoma-people-zimbabwe.jpg",
+                    "https://cdnuploads.aa.com.tr/uploads/Contents/2019/10/27/thumbs_b_c_d62c090778c879937189151647b7aa7c.jpg?v=134517",
+                    "https://media.licdn.com/dms/image/v2/C5612AQExO5jQZkPaXw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1569784473160?e=2147483647&v=beta&t=r1KkevW4ulUF0ZYmpAhRkxPsK_2ECOI60qp2HaYqYLc"
+                ],
+                "leader": [
+                    "https://upload.wikimedia.org/wikipedia/commons/3/31/Emmerson_Mnangagwa_Official_Portrait.jpg",
+                    "https://cdn.britannica.com/21/252621-050-72A317B2/Emmerson-Mnangagwa-President-Zimbabwe-COP26-November-2021.jpg",
+                    "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23247406908171-1693840779.jpg?resize=1800%2C1800"
+                ]
+            } 
+        },
+        
+        "Martinique": {
+            "name": "Martinique",
+            "population": "349,925",
+            "capital": "Fort-de-France",
+            "nationalAnimal": "Martinique Oriole",
+            "languages": ["French", "Martician Creole"],
+            "nationalAnthem": "https://www.youtube.com/watch?v=lbVYPRKB-Aw",
+            "images": {
+                "flag": "https://cdn.britannica.com/82/682-050-8AA3D6A6/Flag-France.jpg?w=400&h=300&c=crop",
+                "city": [
+                    "https://cdn.britannica.com/88/154488-050-9326F5AC/Fort-de-France-Martinique.jpg",
+                    "https://www.planetware.com/wpimages/2019/12/martinique-in-pictures-beautiful-places-to-photograph-fort-de-france.jpg",
+                    "https://lh3.googleusercontent.com/j_mr5cMGninmhXeR49cNPC4RunCHsNU-i40xurYMKXync7khotSAGLjgdv9rzUjs5r6PVVCbMFyPPDcz7ToKs9Az4wPiu327gmnRfE94exZ93UWYZqlcyK7SUNL4Vx0nIZXueed0LiBNGQtZwyD5bDKlosNAV8_8T3ehv55_teQxg2zEyV-93CUsNSpIGy8OA2UAnLa5WGYqbGae0M0lfUBmto4cJROV64K7NbDDjwYyHTSoUzM35XPiwqK8GvBb3V6mXfFRHgWHX_kS23ep5vLWr1PkGJCKsu4K8lcBbBnofH6oTbtuSNBSCoOnkzFYz48-CNvNUp0C4IX43tWeTQKgdTWTjghyIJrTdO6AcgNyJ7GbpPgMcDN-Azk0Tdz78abu9kSX8dnLNInVJLEgEsU6I62raNnHO5P0Kau3Pz4RmkhRUcceA90ZwqhGiQ9_sfP08HoUB2q7-QKfaNWPLhpd1_NS9b01-1qSBTdOYt4Tt3UqaRqysQEUNsHPXujEmyS9cB2ad2OutLVQgEa7GMzlu751wh6CQfsBhF5TvXnJ1UhEvtU-1nb3xYJCWkRXzOiX09Va-KsY8k3VYngEbqGOZVrkYAS8K5RIvfjLVmAhvJkxbApuhMT3BcqhcVA0yQK39KBGHdLJaTT8olC7mbD_TTlmgr0fqw=w984-h615-no"
+                ],
+                "people": [
+                    "https://martiniquepro.org/wp-content/uploads/2023/11/Traditional-dance-at-Tartane-beach_credit_Valentin-Pacaut_theexplorers.jpg",
+                    "https://farm6.staticflickr.com/5054/5510896700_f6e18b0d7e_o.jpg",
+                    "https://azmartinique.com/sites/azmartinique.com/files/header-evenements/arrivee-yoles-header.jpg"
+                ],
+                "leader": [
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Serge_Letchimy.jpg/170px-Serge_Letchimy.jpg",
+                    "https://mms.businesswire.com/media/20150721006513/en/477899/5/Image_4.jpg",
+                    "https://unctt.org/wp-content/uploads/2013/06/Serge-Letchimy-President-of-the-Regional-Council-of-Martinique..jpg"
+                ]
+            }
+        },
+
+        "Paraguay": {
+            "name": "Paraguay",
+            "population": "6.862 million",
+            "capital": "Asunción",
+            "nationalAnimal": "pampas fox",
+            "langauges": ["Spanish", "Guaraní"],
+            "nationalAnthem": "https://www.youtube.com/watch?v=CVsMWt9R6Ew",
+            "images": {
+                "flag": "https://preview.redd.it/paraguay-unified-flag-design-v0-td4aft4l9kdd1.png?width=1080&crop=smart&auto=webp&s=48f6f6145c979a44f41dbe38b6b55ef6d99e8d7b",
+                "city": [
+                    "https://www.visitparaguay.net/wp-content/uploads/2020/01/Asuncion-Paraguay.jpg",
+                    "https://www.worldatlas.com/r/w1200/upload/9f/01/8e/640px-juan-augusto-sosa-ocampos-titulo-brillante-asuncion.jpg",
+                    "https://bunny-wp-pullzone-nfqzsydbnl.b-cdn.net/wp-content/uploads/2023/08/asunsion-paraguay-baskenti-ve-sehirleri.jpg"
+                ],
+                "people": [
+                    "https://www.worldatlas.com/r/w1200/upload/fb/53/80/shutterstock-406369300.jpg",
+                    "https://www.thecairoreview.com/wp-content/uploads/2020/03/costa-scaled.jpg",
+                    "https://static01.nyt.com/images/2021/03/10/world/00paraguay/00paraguay-mediumSquareAt3X.jpg"
+                ],
+                "leader": [
+                    "https://upload.wikimedia.org/wikipedia/commons/7/70/Santiago_Pe%C3%B1a_May_2024.jpg",
+                    "https://worldleaders.columbia.edu/sites/default/files/styles/cu_crop/public/content/World%20Leader%27s%20Forum/2023-2024/09.22.23_Paraguay_Santiago%20Pe%C3%B1a%20Palacios/Profile/09.22.23_Santiago%20Pe%C3%B1a%20Palacios_President%20of%20Paraguay.png?itok=GNL4MTDi",
+                    "https://www.sipa.columbia.edu/sites/default/files/2023-09/Santiago%20Pe%C3%B1a%20MPA-EPM%20%2703_0870_EileenBarroso.jpg"
+                ]
+            }
+        },
+
+        "Romania": {
+            "name": "Romania",
+            "population": "19.06 million",
+            "capital": "Bucharest",
+            "nationalAnimal": "Eurasian lynx",
+            "language": "Romanian",
+            "nationalAnthem": "https://www.youtube.com/watch?v=zTwgwEHiWm0",
+            "images": {
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/255px-Flag_of_Romania.svg.png",
+                "city": [
+                    "https://www.twowanderingsoles.com/wp-content/uploads/2021/07/img_60ee8e5785e80.jpg",
+                    "https://travellingbalkans.com/wp-content/uploads/2019/09/IMG_6366.jpg",
+                    "https://true-romania.tours/wp-content/uploads/2020/11/Best-cities-in-Romania-cover-1.jpg"
+                ],
+                "people": [
+                    "https://compassandfork.com/wp-content/uploads/2018/04/Traditional-Romania-Dress.jpg",
+                    "https://civilisable.com/wp-content/uploads/2024/03/Traditional-Romanian-Clothing-in-Wallachians-Munterien-3.2.2024.jpg",
+                    "https://cdn1.matadornetwork.com/blogs/1/2015/07/Women-in-traditional-clothes-in-Romania-festival-1200x853.jpg"
+                ],
+                "leader": [
+                    "https://upload.wikimedia.org/wikipedia/commons/1/18/EPP_Athens%2C_2-3_December%2C_2022_%2852539790143%29_%28cropped%29.jpg",
+                    "https://worldleaders.columbia.edu/sites/default/files/styles/cu_crop/public/content/World%20Leader%27s%20Forum/2023-2024/09.21.23_Romania_Klaus%20Iohannis/Profile/09.21.23_Klaus%20Iohannis_President%20of%20Romania.png?itok=l8HL4mc2",
+                    "https://pbs.twimg.com/media/GM_2j9WWUAAoEmU.jpg:large"
+                ]
+            }
+        },
+
+        "Malaysia": {
+            "name": "Malaysia",
+            "population": "34.31 million",
+            "capital": "Kuala Lumpur",
+            "nationalAnimal": "Malayan tiger",
+            "languages": ["Malay", "Mandarin", "Tamil"],
+            "nationalAnthem": "https://www.youtube.com/watch?v=w7C72Bz29aM",
+            "images": {
+                "flag": "https://cdn.britannica.com/31/4031-050-A6FEE261/Flag-Malaysia.jpg",
+                "city": [
+                    "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icZHsU97BiK0/v2/-1x-1.webp",
+                    "https://content.paulreiffer.com/wp-content/uploads/2016/05/Kuala-Lumpur-Garden-City-Malaysia-Truly-Asia-Tower-KL-Pentronas-KLCC-Skyscrapers-Aerial-Rooftop-Roof-View-Night-Cityscape-Paul-Reiffer-Photographer-Commercial-Above@2x.jpg",
+                    "https://cdn.kimkim.com/files/a/images/522b8c7df4a45dabe356d755db157db84acaaa95/original-4accc57f4a3dec9de99e689892431dac.jpg"
+                ],
+                "people": [
+                    "https://i0.wp.com/worldawayfromhome.com/wp-content/uploads/2018/06/fullsizeoutput_2c25.jpeg?resize=700%2C465&ssl=1",
+                    "https://civilisable.com/wp-content/uploads/2024/03/Traditional-Malaysian-Clothing-in-South-Malaysia-3.2.2024-.jpg",
+                    "https://cdn-v2.theculturetrip.com/1200x675/wp-content/uploads/2018/02/shutterstock_310845728.webp"
+                ],
+                "leader": [
+                    "https://upload.wikimedia.org/wikipedia/commons/9/94/PM_of_Malaysia_Anwar_Ibrahim_meeting_with_PM_of_Japan_Fumio_Kishida_%282024%29_%28cropped%29.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Anwar_Ibrahim%2C_May_2013.jpg/220px-Anwar_Ibrahim%2C_May_2013.jpg",
+                    "https://content.time.com/time/images/covers/asia/1997/19971006_400.jpg"
+                ]
+            }
+        }
+    }
+]
