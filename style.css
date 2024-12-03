@@ -2,3 +2,53 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+select {
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 10px;
+}
+
+#country-details {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  max-width: 100%;
+  margin: 10px 0;
+  display: block;
+}
+
+.img-thumbnail {
+  max-width: 30%;
+  margin: 5px;
+  display: inline-block;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
