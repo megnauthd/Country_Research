@@ -1,92 +1,106 @@
-Countries / Persons Profile
-Create a profile for 5 people (historic or current) or countries. The user should be able to search for the country and see the results. Once completed, fellow classmates will review and rate your design and content.
+# Countries / Persons Profile
 
-Instructions
-Research a location or person you are interested in.
-all information will be stored as an object in the array in the research.json file under api folder
-Use the Web and/or Wikipedia for your research.
-Requirements
-Take into account, how will the user know what countries you researched that are options.
+ Create a profile for *5* people (historic or current) *or* countries. The user should be able to search for the country and see the results. Once completed, fellow classmates will review and rate your design and content.
 
-Do not select a country your seating partner chose. There are 195 counties in the world, not continents.
 
-Create a design that is creative and that is logical. You can make the layout to display the information. Make sure the information displayed is labeled.
+# Instructions
 
-JavaScript
-a. Load the research.json using fetch or XMLHttp
+ 1. Research a location or person you are interested in.
 
-b. Minimum 3 Functions
+  - *all information will be stored as an object in the array in the research.json file* under api folder
+			
+ 1. Use the Web and/or Wikipedia for your research.
 
-c. The object should contain
 
-7 Key/Values that contains (country)
+# Requirements
 
-name
+ - Take into account, how will the user know what countries you researched that are options.
 
-population
+ - Do not select a country your seating partner chose. *There are 195 counties in the world, not continents.*
 
-capital
+ - Create a design that is creative and that is logical. You can make the layout to display the information. Make sure the information displayed is labeled. 
 
-national animal
+ ## JavaScript
 
-language as an array (if more than one language)
+  a. Load the research.json using fetch or XMLHttp
+				
+  b. Minimum 3 Functions
 
-nation anthem (if present an audio link)
+  c. The object should contain
 
-images as an object that contains
+  - *7 Key/Values* that contains (country)
 
-country flag
+    - name
 
-contains a sub array of images 3 images
+    - population
 
-city
+    - capital
 
-people
+    - national animal
 
-leader (last one if none)
+    	- language as an *array* (if more than one language)
 
-OR
+    	- nation anthem (if present an audio link)
 
-7 Key/Values that contains (person)
+    	- images as an *object* that contains
 
-name
+    	  - country flag
 
-birth date
+    	  - contains a sub array of images *3 images* 
+										
+    	    - city
+											
+    	    - people 
+											
+    	    - leader (last one if none)
+											
+ *OR*
+				
+  - *7 Key/Values* that contains (person)
+	
+    - name
+	
+    - birth date
+	
+    - county/area born in
+	
+    - background/race as an *array* (if mixed)
+	
+    - parents as an *array* that contains
+	
+      - mother (if present)
+	
+      - father (if present)
+					
+    - education as an *array* (if more than one school)
+	
+    - images as an *object* that contains
+	
+      - person
+	
+      - contains a sub array of images *3 images* of
+	
+        - most popular works or awards
+											
+  ## HTML
 
-county/area born in
+  a. Design the page using any html5 tags
 
-background/race as an array (if mixed)
+  ## CSS
+		
+  a. Use creative but consistent colors that makes sense.
 
-parents as an array that contains
+		
+# Challenge
 
-mother (if present)
+  - improve the page creatively than using the template
+		
+  - create the template dynamically.
 
-father (if present)
+  - use a drop down menu
 
-education as an array (if more than one school)
+  - the drop down is dynamically populated with your countries name
 
-images as an object that contains
-
-person
-
-contains a sub array of images 3 images of
-
-most popular works or awards
-HTML
-a. Design the page using any html5 tags
-
-CSS
-a. Use creative but consistent colors that makes sense.
-
-Challenge:
-improve the page creatively than using the template
-
-create the template dynamically.
-
-use a drop down menu
-
-the drop down is dynamically populated with your countries name
-
-use Object.keys() and Object.values in a function.
-
-use a single function that passes a parameter to search for the object.
+  - use Object.keys() and Object.values in a function.
+ 
+  - use a single function that passes a parameter to search for the object.
