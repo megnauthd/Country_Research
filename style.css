@@ -1,54 +1,87 @@
-html {
+/* General Styles */
+html, body {
   height: 100%;
   width: 100%;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  background-color: #B14AED;
-  color: #333;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f8f9fa;
   margin: 0;
   padding: 0;
 }
 
+/* Container */
 .container {
-  margin-top: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
 }
 
+/* Header */
 h1 {
-  color: #E1BBC9;
-}
-
-select {
+  font-weight: 700;
+  color: #6c63ff;
   margin-bottom: 20px;
-  width: 100%;
-  padding: 10px;
 }
 
+/* Dropdown */
+select {
+  padding: 10px;
+  font-size: 1rem;
+  border: 2px solid #6c63ff;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #6c63ff;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+select:focus {
+  box-shadow: 0 0 10px rgba(108, 99, 255, 0.4);
+  border-color: #6c63ff;
+}
+
+/* Country Details */
 #country-details {
-  background-color: #C874D9;
+  background-color: #f4f4ff;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(255, 123, 123, 0.1);
+  color: #555;
+  font-size: 1rem;
 }
 
+#country-details p {
+  margin: 0;
+  font-style: italic;
+}
+
+/* Images */
 img {
   max-width: 100%;
-  margin: 10px 0;
-  display: block;
+  border-radius: 8px;
+  margin-top: 15px;
 }
 
 .img-thumbnail {
   max-width: 30%;
   margin: 5px;
-  display: inline-block;
+  border-radius: 8px;
 }
 
+/* Links */
 a {
-  color: #E1BBC9;
+  color: #6c63ff;
   text-decoration: none;
+  font-weight: 500;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Add Subtle Hover Animation */
+select:hover, a:hover, #country-details:hover {
+  transform: scale(1.02);
+  transition: all 0.2s ease-in-out;
 }
